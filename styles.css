@@ -44,8 +44,8 @@ h1 {
 
 .profile-pic {
     border-radius: 0;
-    width: 140px;
-    height: 200px;
+    width: 120px;
+    height: 180px;
     margin-right: 20px;
     flex-shrink: 0; /* Evita que la imagen se reduzca en tamaño */
 }
